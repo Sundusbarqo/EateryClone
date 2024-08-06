@@ -1,8 +1,1 @@
-# Eatery-Clone
-# EateryClone
-# EateryClone
-# EateryClone
-# EateryClone
-"# EateryClone" 
-"# EateryClone" 
-# EateryClone
+Eatery-Clone
